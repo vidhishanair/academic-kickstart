@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MS in LAnguage Technologies"
+  course = "MS in Language Technologies"
   institution = "Carnegie Mellon University"
-  year = expected 2019
+  year = 2019
 
 [[education.courses]]
   course = "BE in Computer Science and Engineering"
