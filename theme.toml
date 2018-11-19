@@ -1,4 +1,4 @@
-name = "Academic"
+Thename = "Academic"
 license = "MIT"
 licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
 description = "The website designer for Hugo. Build anything and deploy with one click! Fully customizable with themes, plugins, and language packs."
