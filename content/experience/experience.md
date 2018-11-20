@@ -25,7 +25,8 @@ date_format = "January 2006"
   location = "Pittsburgh, USA"
   date_start = "2017-08-15"
   date_end = ""
-  description = """ """
+  description = """
+  """
 
 [[experience]]
   title = "Software Development Engineer 2"
@@ -35,6 +36,7 @@ date_format = "January 2006"
   date_start = "2016-01-01"
   date_end = "2017-07-31"
   description = """
+
   """
 
 [[experience]]
