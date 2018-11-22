@@ -1,5 +1,5 @@
 +++
-title = "Defintion Genenration for Software Entity Terms"
+title = "Defintion Generation for Software Entity Terms"
 date = 2018-11-01T00:00:00
 draft = false
 
