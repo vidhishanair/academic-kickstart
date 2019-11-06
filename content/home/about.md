@@ -17,6 +17,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Language Technologies"
+  institution = "Carnegie Mellon University"
+  year = 2022
+
+[[education.courses]]
   course = "MS in Language Technologies"
   institution = "Carnegie Mellon University"
   year = 2019
