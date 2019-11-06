@@ -31,8 +31,8 @@ weight = 5
 
 # Biography
 
-I am a second year masters student at the Language Technologies Institute at School of Computing Sciences, CMU. I am advised by Prof. Jaime Carbonell and Prof William Cohen. I am also currently doing an independent study with Dr Yulia Tsvetkov.
+I am a first year PhD student at the Language Technologies Institute at School of Computing Sciences, CMU. I am advised by Prof. Jaime Carbonell and Prof Yulia Tsvetkov. I was previously advised by Prof William Cohen during my masters at LTI.
 
-My interests lie primarily in the areas of text generation with structural and domain constraints. I am exploring models to incorporate domain beliefs and structural biases (dependency structures, story narrative chains, etc) as priors to improve generation.
+My interests lie primarily in improving document representations using structural and knowledge biases. Previously, I have worked on incorporating domain beliefs and structural biases (dependency structures, story narrative chains, etc) as priors to improve generation.
 
 Previously, I completed my bachelors from PESIT, Bangalore and worked at Flipkart, India for 2 years.
