@@ -13,7 +13,7 @@ summary = "We consider the task of answering complex multi-hop questions using a
 tags = ["Question Answering", "Multi-Hop QA", "Deep Learning", "Knowledge Bases", "Information Extraction", "Data Structures for QA"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://openreview.net/forum?id=SJxstlHFPH&noteId;=Ilh9vDgaeg"
+# external_link = "https://openreview.net/forum?id=SJxstlHFPH&noteId;=Ilh9vDgaeg"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

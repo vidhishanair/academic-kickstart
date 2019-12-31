@@ -16,11 +16,11 @@ authors = ["Bhuwan Dhingra", "Manzhil Zaheer", "Vidhisha Balachandran" , "Graham
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
-publication_short = "Under Review"
+publication = "International Conference on Learning Representations 2020"
+publication_short = "ICLR 2020"
 
 # Abstract and optional shortened version.
 

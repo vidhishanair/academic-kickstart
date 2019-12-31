@@ -13,7 +13,7 @@ summary = "One way to test a person’s knowledge of a domain is to ask them to 
 tags = ["Sequence Generation", "Word Embeddings"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.aclweb.org/anthology/W18-6122.pdf"
+# external_link = "https://www.aclweb.org/anthology/W18-6122.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

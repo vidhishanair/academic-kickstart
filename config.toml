@@ -39,7 +39,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "vbalacha@cs.cmu.edu"
-  # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "5713 Gates Hillman Centers, Carnegie Mellon University, Pittsburgh, PA, 15217, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   skype = "vidhishanair"
@@ -280,10 +280,10 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
   [[menu.main]]
     name = "CV"
