@@ -10,7 +10,7 @@ summary = "Built a Seq2Seq model for generating biographies of people from Wikip
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Table to Text Generation"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "http://example.org"
