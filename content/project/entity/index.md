@@ -3,7 +3,7 @@
 title = "Closed Domain Entity Recognition and Fraud Detection"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-03-02T00:00:00
 
 # Project summary to display on homepage.
 summary = "Developing models for entity recognition and entity linking for closed domain data. Building classifiers to learn and predict cases of fraud in the insurance domain. Developing machine learning models for fraud detection in a low resource domain"

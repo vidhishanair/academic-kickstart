@@ -3,7 +3,7 @@
 title = "Table to Text Generation"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-05-27T00:00:00
 
 # Project summary to display on homepage.
 summary = "Built a Seq2Seq model for generating biographies of people from Wikipedia Biography Tables. Used alignments between table and text phrases to improve biographies. Results were on par with the previous State of Art models"

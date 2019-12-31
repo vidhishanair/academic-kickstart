@@ -3,7 +3,7 @@
 title = "Latent Structured Representations for Abstractive Summarization"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-10-12T00:00:00
 
 # Project summary to display on homepage.
 summary = "While document summarization in the pre-neural era significantly relied on modeling the interpretable structure of a document, the state of the art neural LSTM-based models for single document summarization encode the document as a sequence of tokens, without modeling the inherent document structure. In this work, we explore inducing latent sentence dependency structures for the task of single-document summarization, with the dual goal of improving the summaries and learning interpretable structured document representations. We leverage structure-aware encoders which have shown to be useful for document classification tasks and adapt it for text summarization"
