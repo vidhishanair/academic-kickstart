@@ -38,8 +38,10 @@ weight = 5
 
 I am a second year PhD student at the Language Technologies Institute in Carnegie Mellon University. I am advised by Prof. Yulia Tsvetkov (also previously Prof. Jaime Carbonell). I completed my masters at LTI in 2019, advised by Prof. William Cohen. 
 
-I've spent two amazing summers as a Research Intern with Google. I was hosted by Niki Parmar and Dr Ashish Vaswani at Google Brain in 2020 and by Dr William Cohen and Dr Michael Collins at Google AT in 2019.
+I've spent two amazing summers as a Research Intern with Google. I was hosted by Niki Parmar and Dr Ashish Vaswani at Google Brain in 2020 and by Dr William Cohen and Dr Michael Collins at Google AI in 2019.
 
-My interests lie primarily in improving document representations using structural and knowledge biases. Previously, I have worked on incorporating domain beliefs and structural biases (dependency structures, story narrative chains, etc) as priors to improve generation.
+# My interests lie primarily in improving document representations using structural and knowledge biases. Previously, I have worked on incorporating domain beliefs and structural biases (dependency structures, story narrative chains, etc) as priors to improve generation.
+
+I work on building trustworthy and reliable NLP systems through interpretable model designs and comprehensive evaluations. I have worked on incorporating structure and interpretability in various downstream NLP tasks (classification, summarization, dialog systems). 
 
 Previously, I completed my bachelors from PESIT, Bangalore and worked at Flipkart, India for 2 years.
