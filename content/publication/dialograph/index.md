@@ -1,6 +1,6 @@
 +++
 title = "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues"
-date = 2020-28-09T00:00:00
+date = 2020-09-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

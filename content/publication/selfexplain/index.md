@@ -1,6 +1,6 @@
 +++
 title = "SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers"
-date = 2021-23-03T00:00:00
+date = 2021-03-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
