@@ -1,10 +1,10 @@
 +++
-title = "StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization"
-date = 2018-11-01T00:00:00
+title = "Investigating the Effect of Background Knowledge on Natural Questions"
+# date = 2021-18-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vidhisha Balachandran", "Artidoro Pagnoni", "Jay Yoon Lee", "Dheeraj Rajagopal", "Jaime Carbonell", "Yulia Tsvetkov"]
+authors = ["Vidhisha Balachandran", "Bhuwan Dhingra", "Haitian Sun", "Michael Collins", "William Cohen"]
 
 # Publication type.
 # Legend:
@@ -16,11 +16,11 @@ authors = ["Vidhisha Balachandran", "Artidoro Pagnoni", "Jay Yoon Lee", "Dheeraj
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "16th Conference of the European Chapter of the Association for Computational Linguistics 2021"
-publication_short = "EACL 2021"
+publication = "To Appear in DeeLIO 2021"
+publication_short = "To Appear in DeeLIO 2021"
 
 # Abstract and optional shortened version.
 
@@ -36,16 +36,17 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["structsum"]
+projects = ["fatnq"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.aclweb.org/anthology/2021.eacl-main.220"
+#url_pdf = "https://arxiv.org/abs/2104.08710"
+
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "https://github.com/vidhishanair/structured_summarizer"
+#url_code = "https://github.com/dheerajrajagopal/SelfExplain"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"

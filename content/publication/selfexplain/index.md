@@ -1,10 +1,10 @@
 +++
-title = "StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization"
-date = 2018-11-01T00:00:00
+title = "SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers"
+date = 2021-23-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vidhisha Balachandran", "Artidoro Pagnoni", "Jay Yoon Lee", "Dheeraj Rajagopal", "Jaime Carbonell", "Yulia Tsvetkov"]
+authors = ["Dheeraj Rajagopal", "Vidhisha Balachandran", "Eduard Hovy", "Yulia Tsvetkov"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Vidhisha Balachandran", "Artidoro Pagnoni", "Jay Yoon Lee", "Dheeraj
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "16th Conference of the European Chapter of the Association for Computational Linguistics 2021"
-publication_short = "EACL 2021"
+publication = "Arxiv"
+publication_short = "Arxiv"
 
 # Abstract and optional shortened version.
 
@@ -36,16 +36,17 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["structsum"]
+projects = ["selfexplain"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.aclweb.org/anthology/2021.eacl-main.220"
+url_pdf = "https://arxiv.org/abs/2103.12279"
+
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "https://github.com/vidhishanair/structured_summarizer"
+url_code = "https://github.com/dheerajrajagopal/SelfExplain"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
